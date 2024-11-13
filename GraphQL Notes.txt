@@ -1,0 +1,9 @@
+https://graphql.org
+->Community-> Tools and Libraries -> JavaScript
+Choose GraphQL Client and GraphQL server as per our needs
+
+Server- Apollo Server
+-> npm init -y
+(Follow the installation as per the documentation)
+-> npm install @apollo/server graphql --save
+-> create a file named typeDefs.js  (for define types)
